@@ -1,12 +1,12 @@
 RESUME = {
    'CONTACT_INFO': {
-    'name' : 'David Welch', 
-    'address_1' : '13383 Windbrooke Lane',
-    'city' : 'Saint Louis',
-    'state' : 'MOl',
-    'zip' : '63146',
-    'phone' : '(314) 585-7422',
-    'email' : 'david.m.welch@gmail.com',
+    'name': 'David Welch', 
+    'address_1': '13383 Windbrooke Lane',
+    'city': 'Saint Louis',
+    'state': 'MO',
+    'zip': '63146',
+    'phone': '(314) 585-7422',
+    'email': 'david.m.welch@gmail.com',
    },
   'TECHNICAL_SKILLS': [
     {
@@ -18,7 +18,7 @@ RESUME = {
       'entry': 'Markdown, JSON, CMake, XML, CSS3, SASS, LESS, MISB, Swagger/OpenAPI'
     },
     {
-      'category' : 'Imaging',
+      'category': 'Imaging',
         'entry': 'scikit-image/learn, OpenCV, OTB, GDAL, rasterio, ITK, Py6S, Nipype, XNAT, BRAINSTools, OsiriX'
     },
     {
@@ -30,8 +30,8 @@ RESUME = {
       'entry': 'D3, reveal.js, VTK, VMTK, Nipype, Pandas, Matplotlib, Seaborn, Qt4, Jupyter, ArcGIS/QGIS'
     },
     {
-      'category' : 'Databases & Tools',
-      'entry' : 'PostgreSQL, mySQL, MongoDB, ElasticCache, Navicat, Sqlectron'
+      'category': 'Databases & Tools',
+      'entry': 'PostgreSQL, mySQL, MongoDB, ElasticCache, Navicat, Sqlectron'
     },
     {
       'category': 'Operating Systems',
@@ -44,19 +44,19 @@ RESUME = {
   ],
   'WORK_EXPERIENCE': [
     {
-      'name' : 'Bayer U.S. Crop Science (Monsanto)'
-      'location' : 'St. Louis, MO',
-      'positions' : [
+      'name': 'Bayer U.S. Crop Science (Monsanto)',
+      'location': 'St. Louis, MO',
+      'positions': [
         {
-          'name' : 'DevOps Engineer',
-          'dates' : 'August 2017 - present',
+          'name': 'DevOps Engineer',
+          'dates': 'August 2017 - present',
         },
         {
-          'name' : 'DevOps Engineer (contractor - Syllogisteks)',
-          'dates' : 'April 2017 - August 2017',
+          'name': 'DevOps Engineer (contractor - Syllogisteks)',
+          'dates': 'April 2017 - August 2017',
         },
       ],
-      'duties' : [
+      'duties': [
         """Led a team of four developers to create a React/Node web application that supports the entire seed development and production work for the company using a microservice architecture and agile development practices.""",
         """Practiced vertical story slicing and expected to be competent on both the frontend and backend of the application.""",
         """Spearheaded integration activities with multiple teams to determine cross-application architecture, and gather technical and business requirements from multiple project managers.""",
@@ -74,15 +74,15 @@ RESUME = {
       ],
     },
     {
-      'name' : 'UrtheCast, Inc.',
-      'location' : 'St. Louis, MO',
-      'positions' : [
+      'name': 'UrtheCast, Inc.',
+      'location': 'St. Louis, MO',
+      'positions': [
         {
-          'name' : 'R&D Software Engineer', 
-          'dates' : 'June 2015 - January 2017',
+          'name': 'R&D Software Engineer', 
+          'dates': 'June 2015 - January 2017',
         },
       ],
-      'duties' : [
+      'duties': [
         """Led a team of developers and SMEs to create a multi-sensor cross-calibration tool to normalize satellite imagery from numerous sensors with various frequency responses using ML.  Reported directly to the CSO with project estimations, technical reports, and updates.  Integrated the tool into an 'analytics-ready' data pipeline product for consumer use.""",
         """Created tooling and environments (Docker/VirtualBox) to support the R&D department and increase the rate of adoption of projects by the DevOps department.""",
         """Engaged and contributed to open source projects (Py6S, PyGDAL, rasterio) as part of maintenance of the department's research development.""",
@@ -91,20 +91,20 @@ RESUME = {
       ],
     },
     {
-      'name' : 'University of Iowa',
-      'location' : 'Iowa City, IA',
-      'positions' : [
+      'name': 'University of Iowa',
+      'location': 'Iowa City, IA',
+      'positions': [
         {
-          'name' : 'Applications Developer I (Scalable Informatics, Neuroimaging, Analysis, Processing, & Software Engineering)',
-          'dates' : 'June 2011 - June 2015',
+          'name': 'Applications Developer I (Scalable Informatics, Neuroimaging, Analysis, Processing, & Software Engineering)',
+          'dates': 'June 2011 - June 2015',
         },
         {
-          'name' : 'Research Assistant (Orthopaedics Biomechanics)',
-          'dates' : 'March 2010 - June 2011',
+          'name': 'Research Assistant (Orthopaedics Biomechanics)',
+          'dates': 'March 2010 - June 2011',
         },
         {
-          'name' : 'Research Assistant (Biomechanics of Soft Tissues)',
-          'dates' : 'June 2008 - March 2010',
+          'name': 'Research Assistant (Biomechanics of Soft Tissues)',
+          'dates': 'June 2008 - March 2010',
         },
       ],
       'duties': [
@@ -118,70 +118,70 @@ RESUME = {
         """Developed the first DICOM image class for Matlab with spatial coordinate support. Collected and analyzed tendon and muscle data using OsiriX and Matlab.""",
         """Completed a semi-automatic cerebral aneurysm identification protocol for my master's thesis to support work investigating stroke likelihood as a function of geometry instead of scale.""",
         """Presented training on level set and wavelet theory to lab members and undergraduate volunteers.  Trained volunteers on how to correctly identify cerebral aneurysms in CT and MR imagery."""
-      ]
+      ],
     }
   ],
-  'EDUCATION' : [
+  'EDUCATION': [
     {
-    'name' : "University of Iowa College of Engineering",
-    'location': "Iowa City, IA",
-    'degree' : "MS, Biomedical Engineering",
-    'dates' : "Graduated June 2011",
-  },
+      'name': "University of Iowa College of Engineering",
+      'location': "Iowa City, IA",
+      'degree': "MS, Biomedical Engineering",
+      'dates': "Graduated June 2011",
+    },
     {
-    'name' : "Washington University",
-    'location': "St. Louis, MO",
-    'degree' : "BA, Physics", 
-    'dates' : "Graduated May 2007",
-  },
-    ],
+      'name': "Washington University",
+      'location': "St. Louis, MO",
+      'degree': "BA, Physics", 
+      'dates': "Graduated May 2007",
+    },
+  ],
   'VOLUNTEERING': [
     {
-      'name' : "CoderDojo Iowa City",
-      'location': "Iowa City, IA",
-      'positions' : [
+      'name': "Boy Scouts of America",
+      'location': "Creve Coeur, MO",
+      'positions': [
         {
-          'name' : 'Champion',
-          'dates': 'May 2013 - June 2015',
-        }
+          'title': 'Scoutmaster',
+          'dates': 'July 2017 - August 2018',
+        },
+        {
+          'title': 'STEM Coordinator - North Star District',
+          'dates': 'July 2018 - July 2019',
+        },
       ]
     },
     {
-      'name' : "CoderDojo STL",
+      'name': "CoderDojo STL",
       'location': "St. Louis, MO",
-      'positions' : [
+      'positions': [
         {
-          'name' : 'Co-Champion',
+          'title': 'Co-Champion',
           'dates': 'June 2015 - July 2017',
         },
         {
-          'name': 'Mentor',
+          'title': 'Mentor',
           'dates': 'July 2017 - October 2017',
         }
       ]
     },
     {
-      'name' : "International Institute of St. Louis",
+      'name': "International Institute of St. Louis",
       'location': "St. Louis, MO",
-      'positions' : [
+      'positions': [
         {
-          'name' : 'Database Administrator',
+          'title': 'Database Administrator',
           'dates': 'August 2016 - June 2017',
         }
       ]
     },
     {
-      'name' : "Boy Scouts of America",
-      'location': "Creve Coeur, MO",
-      'positions' : [
+      'name': "CoderDojo Iowa City",
+      'location': "Iowa City, IA",
+      'positions': [
         {
-          'name' : 'Scoutmaster',
-          'dates': 'July 2017 - August 2018',
-        },
-        {
-          'name' : 'STEM Coordinator - North Star District',
-          'dates': 'July 2018 - July 2019',
-        },
+          'title': 'Champion',
+          'dates': 'May 2013 - June 2015',
+        }
       ]
     },
   ]
